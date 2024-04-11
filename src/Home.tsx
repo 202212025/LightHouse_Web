@@ -2,7 +2,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import "./Home.css";
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import banner1 from "./banner1.png";
+import banner1 from "./banner1.jpg";
 import banner2 from "./banner2.png";
 import EverLearning from "./EverLearning.jpg";
 import Heart from "@react-sandbox/heart";
